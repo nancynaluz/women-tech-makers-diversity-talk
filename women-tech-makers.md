@@ -92,6 +92,11 @@ gender, sexual orientation, race, ableism, class
 
 ---
 
+##Stack Overflow (2015)
+![inline](https://dl.dropboxusercontent.com/s/g3vxdl5d68mafli/Screen%20Shot%202016-03-02%20at%209.45.56%20PM.png?dl=0)
+
+---
+
 PIPELINE vs. CULTURE
 
 ---
