@@ -35,7 +35,7 @@ slidenumbers: false
 
 ![](https://images.unsplash.com/36/yJl7OB3sSpOdEIpHhZhd_DSC_1929_1.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=2f76df06fa9f85c9492224c0e3930c27)
 
-DEFINE DIVERSITY:
+DIVERSITY ADDRESSES THE FOLLOWING:
 gender, sexual orientation, race, ableism, class
 
 ---
@@ -58,7 +58,7 @@ gender, sexual orientation, race, ableism, class
 
 ---
 
-#[fit]Women are paid 24% lower than their male colleagues.
+##[fit]Women are paid 24% lower than their male colleagues.
 
 ---
 
@@ -81,7 +81,7 @@ gender, sexual orientation, race, ableism, class
 ---
 
 #[fit] 77% of women state that they are asked to do administrative
-#[fit] tasks outside the scope of their daily work.
+##[fit] tasks outside the scope of their daily work.
 
 ---
 
@@ -107,11 +107,29 @@ gender, sexual orientation, race, ableism, class
 
 ---
 
-PIPELINE vs. CULTURE
+##PIPELINE
+
+^ The pipeline is what brings people into the industry.
 
 ---
 
 ##What is the pipeline that inhibits women from entering the industry?
+
+---
+
+![](http://ladieslearningcode.com/wp-content/uploads/2015/12/6021632122_ef4ca7c8c6_o.jpg)
+##[fit]My experience
+^ Personal experience
+^ My father is a computer engineer and my brother is a software developer yet I was a Luddite.
+^ I have a background in classical guitar performance at York University in Toronto and for most of my professional career, I have taught piano, guitar, and flute to students of all ages.
+^ Luddite: someone who is terrified of technology. I didn't understand it. Why are we so obssessed with the newest applications.
+^ I knew technology was not going anywhere and I took an approach to technology that was both hands on and critical. I attended Concordia Unviersity where I studied Communication Studies. From there I grew interested in digital
+accessibility and accessibility in general. Coming from a not so academic background of playing guitar, singing and listening to music, this was a change for me. I was saddened by how I felt about academia in general; papers that were
+written in a language economy that was not accessible to the people they were talking about. Topics that to this day interest me: diversity, equality, accessibility, and social issues.
+^ A professor by the name of Ian Reilly talked about Ladies Learning Code: a women-run, not-for-profit organization that offers workshops for women to learn programming in a social and collaborative environment. Unfortunately this was not in Montreal, yet.
+^ I attended it having almost no programming experience whatsoever. I took one programming class in high school with 20 boys and 5 girls. The class had divided itself by gender and it was a completely horrible experience where I barely understood what was going on.
+^ I went to Toronto, my home town, to attend a Ladies Learning Code workshop on Drupal and I learned how to make a social network for cats. The environment was welcoming, friendly, unassuming, and most importantly, filled with women that wanted to learn. Sure, at the end, I was not
+a Drupal developer but I wanted to see this in Montreal and it's how it's born now. Founded in 2014 going on to our 2nd year we are now 3 Chapter Leads (Cassie L. Rhéaume in charge of the francophone workshops, Iva Olah in charge of the youth workshops, and myself). We've had 40 workshops, +900 participants and +300 mentors at our events.
 
 ---
 
@@ -122,6 +140,8 @@ PIPELINE vs. CULTURE
 
 ![](https://images.unsplash.com/photo-1454023989775-79520f04322c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=9e434433acf7e61b897ee692e51e0a4f)
 ##[fit] Mentorship
+
+^ When I chat with people about Ladies Learning Code, they always mention that their favourite part of the whole experience is being able to chat with the mentors. At our workshops, we promise at least a 4 to 1 ratio of students to mentors. The Montreal community has been so incredibly supportive that we sometimes have a 1 to 1 ratio of students to mentors.
 
 ---
 ![](https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ca8c08d17555247f7580691500bb5351)
@@ -139,12 +159,6 @@ PIPELINE vs. CULTURE
 ##[fit] "Teach a girl how to code
 ##[fit] and she'll teach four."
 ##### **Reshma Saujani - Founder of Girls Who Code**
-
----
-
-![](http://ladieslearningcode.com/wp-content/uploads/2015/12/6021632122_ef4ca7c8c6_o.jpg)
-##[fit]My experience
-^ Personal experience
 
 ---
 
@@ -184,8 +198,16 @@ PIPELINE vs. CULTURE
 ##[fit]A lot about coding is about embracing failure.
 
 ---
-##[fit]Model View Culture
-^ https://modelviewculture.com/
+
+##[fit]Let's be welcoming
+- Brenna O'brien
+
+---
+####JavaScript: The Good Parts by Brenna O'Brien
+![](http://www.youtube.com/watch?v=2ypYniQa7_o&t=10m40s)
+
+^ Which way is the right way? Constantly critiquing people about using last year's model. Anger against jQuery. Strongly opinionated developer community that is incredibly passionate but these ideas are so alienating to newcomers that want to understand the basic fundamentals of programming.
+^ The front end team where I work have these front end meetings every two weeks and I used to be nervous about sharing something that I found on the internet because I was worried that people already knew about this. The junior developer was showing last year's article or something that was trivial and not worth chatting about. I finally got the courage to start talking more but I catch myself always prefacing it with "This may be really simple."
 
 ---
 
@@ -193,30 +215,32 @@ PIPELINE vs. CULTURE
 ##[fit]Creating mentorship
 
 ^ Embracing pair programming
-^ Code Reviews
+^ Code Reviews: asking questions in PRs
 ^ Smoother onboarding
 
+
 ---
+
 ![](https://images.unsplash.com/photo-1451226428352-cf66bf8a0317?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=52f6585294b80f9b2d8ab36e5d2a9b3b)
 ###Words to avoid by Chris Coyier
 
 OBVIOUSLY · BASICALLY · SIMPLY · OF COURSE · SIMPLY · CLEARLY · JUST · EVERYONE KNOWS · HOWEVER · SO · EASY
 
 ---
+
 ![](http://d.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2014/02/3026772-poster-p-2-girls-who-code-founder-reshma-saujanis-favorite-productivity-hack.jpg)
 ##[fit]"We’re raising our girls to be perfect
 ##[fit]and we’re raising our boys to be brave."
-##[fit]- **Reshma Saujani, TED2016**
+##[fit]- **Reshma Saujani, #TED2016**
 
 ---
 ![](http://cdn1.vox-cdn.com/uploads/chorus_asset/file/631624/slack-desktop-integrations.0.png)
-#[fit]What are your company's values?
-##[fit] Slack's open post about diversity?
-Read more about this [here](http://slackhq.com/post/107934093600/building-the-workplace-we-want)
+#[fit]Be open and transparent about your company's stance on diversity.
+##[fit] How does Slack think about this? Read more about this [here](http://slackhq.com/post/107934093600/building-the-workplace-we-want)
 
 ---
 ![](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=5e2cbf8fc0f617f10d40fbf59797b524)
-#[fit] Defining Guidelines in the Workplace
+#[fit] Defining Guidelines and Etiquette in the Workplace
 
 ---
 **"Slack — especially on the #general channel, but really everywhere — does not allow for nuance, and is not built to foment discourse about sensitive topics..."**
@@ -229,4 +253,17 @@ Read more about this [here](http://slackhq.com/post/107934093600/building-the-wo
 ---
 #[fit] Women in Tech Groups
 #[fit] foster discussion, mentorship, and community
+
+---
+
+#[fit]Final thoughts
+
+^ Am I saying that everyone needs to be a developer? Am I saying that from this point forward that your team should only hire female developers? Not really. I think that learning to code should be accessible. I think we should teach our kids about technology and coding so that they don't have these assuming ideas of whether or not the tech field is for them. I think that companies and those that are hiring should be aware of these issues and conscious when their team is all females. I think when we say that we are proud of our company culture, we need to address whether or not that culture has allowed for diversity to grow.
+
+^ I think that when addressing diversity it's not just about addressing the pipeline but it's also the culture. We want to keep those people there. It's not just about hiring for the sake of hiring but providing also the mentorship and support that these new devs need.
+
+^ I am not saying that I have all the answers. In fact, I'd love to hear more. The only thing I can say is that this is my experience. Prior to coming into this two years ago, I knew nothing about tech, didn't know about startups, thought it was all men, thought programming was an isolated experience. Little did I know, the community wants to change.
+
+^ Sure, it's only been two years, but I'm still here. And that's p cool.
+
 
