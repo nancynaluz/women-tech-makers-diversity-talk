@@ -41,13 +41,7 @@ gender, sexual orientation, race, ableism, class
 ---
 
 ![](https://images.unsplash.com/photo-1446052377488-d40ee7263458?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=16731c17641073b11b363b06e86f3719)
-##[fit]SO WHAT DOES THE INDUSTRY
-##[fit]LOOK LIKE TODAY?
-
----
-
-#[fit]The following statistics are taken from the
-#[fit]YES Women in Tech Montreal Study.
+##[fit]So what does the industry look like today?
 
 ---
 
@@ -57,43 +51,59 @@ gender, sexual orientation, race, ableism, class
 
 ---
 
-#[fit]Over the past 20 years
-##[fit]the number of Canadian women graduating in STEM
-##[fit]is declining
+#[fit]Over the past 20 years the number of Canadian women
+##[fit]graduating in STEM is declining.
+
+^http://www.yesmontreal.ca/ignitionweb/data/media_centre_files/2707/YES%20GBA%20Technology%20Sector%20in%20Quebec%20_%20Full%20Report.pdf
 
 ---
 
-#[fit]Women are paid
-#[fit]24% LOWER
-##[fit] than their male colleagues
+#[fit]Women are paid 24% lower than their male colleagues.
 
 ---
 
-#[fit]81% of women
-#[fit]believe their companies
-##[fit] are not spending adequate time addressing diversity
+#[fit]81% of women believe their companies are not spending adequate time addressing diversity
+
+^ - http://www.yesmontreal.ca/ignitionweb/data/media_centre_files/2707/YES%20GBA%20Technology%20Sector%20in%20Quebec%20_%20Full%20Report.pdf
 
 ---
 
-![](https://images.unsplash.com/photo-1455106593527-57a02af963e9?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=a146188c35b45fe04a55470670f366dc)
+##[fit]74% of girls in middle school express interest in Science, Technology, Engineering, Math
+##[fit] 0.3% of high school girls choose computer science as a post-secondary major
 
-##[fit]74% of girls in middle school
-##[fit] express interest in Science, Technology, Engineering, Math
-##[fit] 0.3% of high school girls
-##[fit]choose computer science as a post-secondary major
-
-- [Girls Who Code](http://www.teenvogue.com/story/reshma-saujani-girls-who-code)
+^ - [Girls Who Code](http://www.teenvogue.com/story/reshma-saujani-girls-who-code)
 
 ---
 
-#[fit]69% of women
-#[fit]believe mentors and role models
-##[fit] are readily available for women in the workplace
+#[fit]69% of women believe mentors and role models
+##[fit] are lacking for women in the workplace
+
+---
+
+#[fit] 77% of women state that they are asked to do administrative
+#[fit] tasks outside the scope of their daily work.
+
+---
+
+#[fit]+52% highly qualified females in STEM quit their jobs driven out by
+#[fit]hostile work environments, isolation from their male peers, and severe job pressures.
+
+^ http://documents.library.nsf.gov/edocs/HD6060-.A84-2008-PDF-Athena-factor-Reversing-the-brain-drain-in-science,-engineering,-and-technology.pdf
+
+---
+
+#[fit]Women's pull request acceptance rates (78.6%)
+#[fit] are higher than men's (74.6%)
+#[fit]However, drop to 62.5% when their gender is identifiable.
+
+^ http://www.bbc.com/news/technology-35559439
 
 ---
 
 ##Stack Overflow (2015)
 ![inline](https://dl.dropboxusercontent.com/s/g3vxdl5d68mafli/Screen%20Shot%202016-03-02%20at%209.45.56%20PM.png?dl=0)
+
+^ http://stackoverflow.com/research/developer-survey-2015
 
 ---
 
@@ -139,24 +149,24 @@ PIPELINE vs. CULTURE
 ---
 
 ![fit](https://scontent-yyz1-1.xx.fbcdn.net/hphotos-prn2/t31.0-8/10683628_707312629352083_457146519515326627_o.jpg)
-#[fit] HackerYou
-#[fit] 75% women enrolment
+#[fit] HackerYou ==75% women enrolment
 ---
 
 
 ![](https://images.unsplash.com/photo-1433170897235-615700336230?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=4cc33ad333b238cf760a0451d71a6a33)
-#[fit] So are we hiring more women? (Rooney Rule: Slack, Facebook, Pinterest)
-#[fit] And if so, is that sexist?
+#[fit] So are we hiring more women? What is the Rooney Rule?
+
+^ Slack, Facebook, Pinterest
 
 ---
 
 ![](http://extfiles.etsy.com/Press/dumbo-office/dumbo_office_065.jpg)
-#[fit] Case Study: ETSY
+###A Case Study: ETSY
 #[fit]sponsors grants for women to attend Hacker School
 
-They went from 10% female to a 500% increase[^2].
+^ They went from 10% female to a 500% increase[^2].
 
-[^2]: Read full article [here](http://www.forbes.com/sites/northwesternmutual/2013/09/10/finding-female-engineers-githubs-passion-leads-to-success/#67648523595b)
+^ [^2]: Read full article [here](http://www.forbes.com/sites/northwesternmutual/2013/09/10/finding-female-engineers-githubs-passion-leads-to-success/#67648523595b)
 
 ---
 ![](https://images.unsplash.com/photo-1453067085054-9852b6e2a759?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=f0aeab218381db141bb5f4fcd866cdc9)
@@ -175,20 +185,20 @@ They went from 10% female to a 500% increase[^2].
 
 ---
 ##[fit]Model View Culture
-https://modelviewculture.com/
+^ https://modelviewculture.com/
 
 ---
 
 ![](https://images.unsplash.com/photo-1454023989775-79520f04322c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=9e434433acf7e61b897ee692e51e0a4f)
 ##[fit]Creating mentorship
 
-Embracing pair programming
-Code Reviews
-Smoother onboarding
+^ Embracing pair programming
+^ Code Reviews
+^ Smoother onboarding
 
 ---
 ![](https://images.unsplash.com/photo-1451226428352-cf66bf8a0317?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=52f6585294b80f9b2d8ab36e5d2a9b3b)
-##[fit]Words to avoid by Chris Coyier
+###Words to avoid by Chris Coyier
 
 OBVIOUSLY · BASICALLY · SIMPLY · OF COURSE · SIMPLY · CLEARLY · JUST · EVERYONE KNOWS · HOWEVER · SO · EASY
 
