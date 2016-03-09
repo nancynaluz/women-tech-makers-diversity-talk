@@ -51,40 +51,31 @@ gender, sexual orientation, race, ableism, class
 
 ---
 
+![](https://images.unsplash.com/photo-1452457750107-cd084dce177d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=2f540c45be3bffbf5a5722957731f6e5)
 #[fit]Over the past 20 years the number of Canadian women
 ##[fit]graduating in STEM is declining.
 
 ^http://www.yesmontreal.ca/ignitionweb/data/media_centre_files/2707/YES%20GBA%20Technology%20Sector%20in%20Quebec%20_%20Full%20Report.pdf
 
 ---
-
+![](https://images.unsplash.com/photo-1452457750107-cd084dce177d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=2f540c45be3bffbf5a5722957731f6e5)
 ##[fit]Women are paid 24% lower than their male colleagues.
 
 ---
 
-#[fit]81% of women believe their companies are not spending adequate time addressing diversity
-
-^ - http://www.yesmontreal.ca/ignitionweb/data/media_centre_files/2707/YES%20GBA%20Technology%20Sector%20in%20Quebec%20_%20Full%20Report.pdf
-
----
-
-##[fit]74% of girls in middle school express interest in Science, Technology, Engineering, Math
-##[fit] 0.3% of high school girls choose computer science as a post-secondary major
+![](https://images.unsplash.com/photo-1452457750107-cd084dce177d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=2f540c45be3bffbf5a5722957731f6e5)
+####74% of girls in middle school express interest in Science, Technology, Engineering, Math.
+#### 0.3% of high school girls choose computer science as a post-secondary major.
 
 ^ - [Girls Who Code](http://www.teenvogue.com/story/reshma-saujani-girls-who-code)
 
 ---
-
-#[fit]69% of women believe mentors and role models
+![](https://images.unsplash.com/photo-1452457750107-cd084dce177d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=2f540c45be3bffbf5a5722957731f6e5)
+#[fit]69% of women believe mentors role models
 ##[fit] are lacking for women in the workplace
 
 ---
-
-#[fit] 77% of women state that they are asked to do administrative
-##[fit] tasks outside the scope of their daily work.
-
----
-
+![](https://images.unsplash.com/photo-1452457750107-cd084dce177d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=2f540c45be3bffbf5a5722957731f6e5)
 #[fit]+52% highly qualified females in STEM quit their jobs driven out by
 #[fit]hostile work environments, isolation from their male peers, and severe job pressures.
 
@@ -92,6 +83,7 @@ gender, sexual orientation, race, ableism, class
 
 ---
 
+![](https://images.unsplash.com/photo-1452457750107-cd084dce177d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=2f540c45be3bffbf5a5722957731f6e5)
 #[fit]Women's pull request acceptance rates (78.6%)
 #[fit] are higher than men's (74.6%)
 #[fit]However, drop to 62.5% when their gender is identifiable.
@@ -107,34 +99,61 @@ gender, sexual orientation, race, ableism, class
 
 ---
 
-##PIPELINE
-
-^ The pipeline is what brings people into the industry.
+![](http://emojipedia-us.s3.amazonaws.com/social/upside-down-face.png)
 
 ---
-
-##What is the pipeline that inhibits women from entering the industry?
+![](http://emojipedia-us.s3.amazonaws.com/social/thinking-face.png)
+###What is the pipeline that inhibits women from entering the industry?
 
 ---
 
 ![](http://ladieslearningcode.com/wp-content/uploads/2015/12/6021632122_ef4ca7c8c6_o.jpg)
-##[fit]My experience
+##My experience
 ^ Personal experience
 ^ My father is a computer engineer and my brother is a software developer yet I was a Luddite.
-^ I have a background in classical guitar performance at York University in Toronto and for most of my professional career, I have taught piano, guitar, and flute to students of all ages.
-^ Luddite: someone who is terrified of technology. I didn't understand it. Why are we so obssessed with the newest applications.
-^ I knew technology was not going anywhere and I took an approach to technology that was both hands on and critical. I attended Concordia Unviersity where I studied Communication Studies. From there I grew interested in digital
-accessibility and accessibility in general. Coming from a not so academic background of playing guitar, singing and listening to music, this was a change for me. I was saddened by how I felt about academia in general; papers that were
-written in a language economy that was not accessible to the people they were talking about. Topics that to this day interest me: diversity, equality, accessibility, and social issues.
-^ A professor by the name of Ian Reilly talked about Ladies Learning Code: a women-run, not-for-profit organization that offers workshops for women to learn programming in a social and collaborative environment. Unfortunately this was not in Montreal, yet.
-^ I attended it having almost no programming experience whatsoever. I took one programming class in high school with 20 boys and 5 girls. The class had divided itself by gender and it was a completely horrible experience where I barely understood what was going on.
-^ I went to Toronto, my home town, to attend a Ladies Learning Code workshop on Drupal and I learned how to make a social network for cats. The environment was welcoming, friendly, unassuming, and most importantly, filled with women that wanted to learn. Sure, at the end, I was not
-a Drupal developer but I wanted to see this in Montreal and it's how it's born now. Founded in 2014 going on to our 2nd year we are now 3 Chapter Leads (Cassie L. Rhéaume in charge of the francophone workshops, Iva Olah in charge of the youth workshops, and myself). We've had 40 workshops, +900 participants and +300 mentors at our events.
 
 ---
 
+#Luddite
+\ˈlə-ˌdīt\ noun
+
+One of a group of early 19th century English work(wo)men destroying laborsaving machinery as a protest; broadly :  one who is opposed to especially technological change.
+
+^ http://www.merriam-webster.com/dictionary/Luddite
+
+^ I have a background in classical guitar performance at York University in Toronto and for most of my professional career, I have taught piano, guitar, and flute to students of all ages.
+^ Luddite: someone who is terrified of technology. I didn't understand it. Why are we so obssessed with the newest applications.
+
+
+^ I knew technology was not going anywhere and I took an approach to technology that was both hands on and critical. I attended Concordia Unviersity where I studied Communication Studies. From there I grew interested in digital
+accessibility and accessibility in general. Coming from a not so academic background of playing guitar, singing and listening to music, this was a change for me. I was saddened by how I felt about academia in general; papers that were
+written in a language economy that was not accessible to the people they were talking about. Topics that to this day interest me: diversity, equality, accessibility, and social issues.
+
+---
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/f2/Ladies_Learning_Code_event,_November_26_2011.jpg)
+
+^ A professor by the name of Ian Reilly talked about Ladies Learning Code: a women-run, not-for-profit organization that offers workshops for women to learn programming in a social and collaborative environment. Unfortunately this was not in Montreal, yet.
+^ I attended it having almost no programming experience whatsoever. I took one programming class in high school with 20 boys and 5 girls. The class had divided itself by gender and it was a completely horrible experience where I barely understood what was going on.
+^ I went to Toronto, my home town, to attend a Ladies Learning Code workshop on Drupal and I learned how to make a social network for cats. The environment was welcoming, friendly, unassuming, and most importantly, filled with women that wanted to learn. Sure, at the end, I was not
+a Drupal developer but I wanted to see this in Montreal and it's how it's born now.
+^ I was inspired by the story of Ladies Learning Code: Heather Payne, our founder and now CEO of HackerYou, attended a workshop for Python for women run by PyLadies in LA and thought why there wasn't anything like this in Canada. It started with a tweet and now Ladies Learning Code exists in 23 cities across Canada. Hosting workshops, building content that is accessible for people at home as well.
+
+^ Founded in 2014 going on to our 2nd year we are now 3 Chapter Leads (Cassie L. Rhéaume in charge of the francophone workshops, Iva Olah in charge of the youth workshops, and myself). We've had 40 workshops, +900 participants and +300 mentors at our events.
+
+---
+![](https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ca8c08d17555247f7580691500bb5351)
+###Now, I am a front end web developer
+
+^ I led Ladies Learning Code for a year by myself not fully understanding how to code but trying my best to follow along with the workshops I was organizing. Meeting the most amazing mentors and people in the startup and tech community gave me the confidence to dive deep into web development. I attended HackerYou, a bootcamp in Toronto and founded by the same team of Ladies Learning Code. 9 weeks later, I was a front-end web developer and a month after, I started my internship with Dynamo where I am still happily employed.
+
+^ Looking back at my previous life as a Luddite, I've been reflecting and trying to understand why exactly I had been so adverse to technology for such a long time.
+
+---
 ![](http://assets1.ignimgs.com/2015/03/15/1427358mktpasiliconvalleys2-ka-v12rev2jpg-52a950_1280w.jpg)
 ##[fit]MEDIA REPRESENTATION
+
+^ Could it be the lack of media representation? This could certainly have an effect, I'm sure. Take a look at the HBO Sillicon Valley show. The Season 1 trailer features only one women in the minute and 31 seconds that it lasts and she's a stripper. Only in the second season, do they feature a female programmer.
 
 ---
 
@@ -198,14 +217,18 @@ a Drupal developer but I wanted to see this in Montreal and it's how it's born n
 ##[fit]A lot about coding is about embracing failure.
 
 ---
+![](http://d.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2014/02/3026772-poster-p-2-girls-who-code-founder-reshma-saujanis-favorite-productivity-hack.jpg)
+##[fit]"We’re raising our girls to be perfect
+##[fit]and we’re raising our boys to be brave."
+###- **Reshma Saujani, #TED2016**
 
-##[fit]Let's be welcoming
-- Brenna O'brien
+^ The hardest part about getting started in this industry was realizing that you don't know everything. A lot of the beginnings of being a web developer is Googling, Stack Overflow and asking help from your peers. I've been in this field for a year and a half now and I'm still constantly asking for help from my peers and doing code reviews for the littlest things. It's a hard thing to admit to yourself that you don't know everything but you realize you're not the only one.
 
 ---
-####JavaScript: The Good Parts by Brenna O'Brien
-![](http://www.youtube.com/watch?v=2ypYniQa7_o&t=10m40s)
+![](https://i.ytimg.com/vi/2ypYniQa7_o/maxresdefault.jpg)
+#[fit]JavaScript: The Good Parts by Brenna O'Brien
 
+^ I feel that every JavaScript
 ^ Which way is the right way? Constantly critiquing people about using last year's model. Anger against jQuery. Strongly opinionated developer community that is incredibly passionate but these ideas are so alienating to newcomers that want to understand the basic fundamentals of programming.
 ^ The front end team where I work have these front end meetings every two weeks and I used to be nervous about sharing something that I found on the internet because I was worried that people already knew about this. The junior developer was showing last year's article or something that was trivial and not worth chatting about. I finally got the courage to start talking more but I catch myself always prefacing it with "This may be really simple."
 
@@ -228,12 +251,6 @@ OBVIOUSLY · BASICALLY · SIMPLY · OF COURSE · SIMPLY · CLEARLY · JUST · EV
 
 ---
 
-![](http://d.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2014/02/3026772-poster-p-2-girls-who-code-founder-reshma-saujanis-favorite-productivity-hack.jpg)
-##[fit]"We’re raising our girls to be perfect
-##[fit]and we’re raising our boys to be brave."
-##[fit]- **Reshma Saujani, #TED2016**
-
----
 ![](http://cdn1.vox-cdn.com/uploads/chorus_asset/file/631624/slack-desktop-integrations.0.png)
 #[fit]Be open and transparent about your company's stance on diversity.
 ##[fit] How does Slack think about this? Read more about this [here](http://slackhq.com/post/107934093600/building-the-workplace-we-want)
@@ -243,20 +260,25 @@ OBVIOUSLY · BASICALLY · SIMPLY · OF COURSE · SIMPLY · CLEARLY · JUST · EV
 #[fit] Defining Guidelines and Etiquette in the Workplace
 
 ---
-**"Slack — especially on the #general channel, but really everywhere — does not allow for nuance, and is not built to foment discourse about sensitive topics..."**
+"Slack — especially on the #general channel, but really everywhere — does not allow for nuance, and is not built to foment discourse about sensitive topics..."
 
 ---
 
-**"I know this can be seen as an overreaction. I would absolutely love to facilitate a discussion about how best to handle/discuss stuff like this to make sure everyone feels included. I'll give some thought as to how to accomplish that soon (if you have suggestions please let me know)."**
-- ALEX NEMEROFF (co-founder & design/UX lead)
+"I know this can be seen as an overreaction. I would absolutely love to facilitate a discussion about how best to handle/discuss stuff like this to make sure everyone feels included. I'll give some thought as to how to accomplish that soon (if you have suggestions please let me know)."
+####*- ALEX NEMEROFF (co-founder & design/UX lead)*
 
 ---
 #[fit] Women in Tech Groups
 #[fit] foster discussion, mentorship, and community
 
+^ Pixelles, Montreal All Girl Hack Night, PyLadies, Yes Montreal Women in Tech, Montreal Girl Geeks
+^ I went to these meetups before Ladies Learning Code was even a thing in Montreal and they inspired me.
+^ I've met the most incredible women through these meetups and each of these groups have built communities that I aspire to build for Ladies Learning Code.
+^ I recently participated in a focus group for women in STEM at YES Montreal Women in Tech and it brought up some really fantastic discussions about workplace, male colleagues, etc. I recently confessed in an interview I did with Andrea Zoellner, another speaker here today, that I'm not 100% comfortable going to meetups where a small percentage of the room is female. My first year entering into tech, I was thrilled about the free pizza and beer and networking. Now, I'm more selective and I prefer to go to meetups where I know at least one other person going or women-in-tech oriented meetups. It's something that I hope to overcome but it's for sure a barrier for me.
+
 ---
 
-#[fit]Final thoughts
+##Final thoughts
 
 ^ Am I saying that everyone needs to be a developer? Am I saying that from this point forward that your team should only hire female developers? Not really. I think that learning to code should be accessible. I think we should teach our kids about technology and coding so that they don't have these assuming ideas of whether or not the tech field is for them. I think that companies and those that are hiring should be aware of these issues and conscious when their team is all females. I think when we say that we are proud of our company culture, we need to address whether or not that culture has allowed for diversity to grow.
 
@@ -264,6 +286,6 @@ OBVIOUSLY · BASICALLY · SIMPLY · OF COURSE · SIMPLY · CLEARLY · JUST · EV
 
 ^ I am not saying that I have all the answers. In fact, I'd love to hear more. The only thing I can say is that this is my experience. Prior to coming into this two years ago, I knew nothing about tech, didn't know about startups, thought it was all men, thought programming was an isolated experience. Little did I know, the community wants to change.
 
-^ Sure, it's only been two years, but I'm still here. And that's p cool.
+^ Sure, it's only been two years, but I'm still here. I stayed because I surrounded myself with a community I love and people I love to work with. And that's p cool.
 
 
