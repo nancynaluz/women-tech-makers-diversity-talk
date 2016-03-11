@@ -1,29 +1,27 @@
 footer: NANCY NALUZ | @nancynaluz
 slidenumbers: false
 
-![](https://images.unsplash.com/photo-1440335680360-79703e7032f9?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=df0fa22777a00d4c1b98a3037100e041)
+![](https://images.unsplash.com/13/unsplash_523ae1f5502d6_1.JPG?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=8303bca44f6cd3ce0e72326f3cacf3b8)
 
-#[fit] Diversity in Tech:
-##[fit]Addressing the **Pipeline** & Creating the **Culture**
+##[fit] Diversity in Tech:
+###[fit]Addressing the Pipeline & Creating the Culture
 
 ---
 
-![left](https://daowea4srpbxm.cloudfront.net/assets/team/nancy-3b6fcb10f708f8be907a0c2cd07e10c3.jpg)
+![left](https://dl.dropboxusercontent.com/s/6m71yy265ehpdw8/nancy.jpg?dl=0)
 ## Nancy Naluz
 ## @nancynaluz
 
 ---
 
 ![](https://daowea4srpbxm.cloudfront.net/assets/about/team-hero-f5ce0ea108620d13177bced9e34b0ced.jpg)
-###[fit] Front-End Web Developer @ Dynamo
-####[godynamo.com](www.godynamo.com) // @dynamomtl
+###[fit] Front-End Web Developer at Dynamo
 
 ---
 
 ![](http://ladieslearningcode.com/wp-content/uploads/2015/02/LadieLeaningCodeMTLWP_20140614_63_zmimi_HR-e1424038852378.jpg)
 
-####[fit] Founder & Montréal Chapter Lead of Ladies Learning Code
-####[ladieslearningcode.com](www.ladieslearningcode.com) // @learningcode
+###[fit] Founder & Montréal Chapter Lead of Ladies Learning Code
 
 ---
 
@@ -31,24 +29,15 @@ slidenumbers: false
 # Diversity
 ### What does that mean?
 ### What **should** that mean?
----
 
-![](https://images.unsplash.com/36/yJl7OB3sSpOdEIpHhZhd_DSC_1929_1.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=2f76df06fa9f85c9492224c0e3930c27)
+^ This talk will focus a lot on the gender diversity within the tech industry but I do not want to mitigate other forms of diversity including sexual orientation, race, ableism, and economic class. These too are important to highlight.
 
-DIVERSITY ADDRESSES THE FOLLOWING:
-gender, sexual orientation, race, ableism, class
+^ A lot of studies have come up to talk about gender diversity on why diversity matters. It's ultimately good for business, enforces good team building, brings on different perspectives. It's great that we have this idea but I also want to highlight that I think diversity is great point. Period. I think everyone should have the same accessibility to enter into which ever field no matter who they are.
 
 ---
 
-![](https://images.unsplash.com/photo-1446052377488-d40ee7263458?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=16731c17641073b11b363b06e86f3719)
+![](https://images.unsplash.com/photo-1453230806017-56d81464b6c5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ef7efa065a1306618fef80e4294a189c)
 ##[fit]So what does the industry look like today?
-
----
-
-![left](http://infobeautiful4.s3.amazonaws.com/2015/05/1276_Diversity-In-Tech.png)
-
-##The real numbers
-
 ---
 
 ![](https://images.unsplash.com/photo-1452457750107-cd084dce177d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=2f540c45be3bffbf5a5722957731f6e5)
@@ -60,6 +49,8 @@ gender, sexual orientation, race, ableism, class
 ---
 ![](https://images.unsplash.com/photo-1452457750107-cd084dce177d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=2f540c45be3bffbf5a5722957731f6e5)
 ##[fit]Women are paid 24% lower than their male colleagues.
+
+^http://www.yesmontreal.ca/ignitionweb/data/media_centre_files/2707/YES%20GBA%20Technology%20Sector%20in%20Quebec%20_%20Full%20Report.pdf
 
 ---
 
@@ -158,7 +149,7 @@ a Drupal developer but I wanted to see this in Montreal and it's how it's born n
 ---
 
 ![](https://images.unsplash.com/photo-1454023989775-79520f04322c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=9e434433acf7e61b897ee692e51e0a4f)
-##[fit] Mentorship
+##[fit] Workplace Mentorship
 
 ^ When I chat with people about Ladies Learning Code, they always mention that their favourite part of the whole experience is being able to chat with the mentors. At our workshops, we promise at least a 4 to 1 ratio of students to mentors. The Montreal community has been so incredibly supportive that we sometimes have a 1 to 1 ratio of students to mentors.
 
@@ -167,10 +158,15 @@ a Drupal developer but I wanted to see this in Montreal and it's how it's born n
 ##[fit] Education & accessibility
 #[fit]Introducing technology at an earlier age prior to enforcing gender stereotypes of the industry
 
+^ Sometimes I wonder if I was given a chance to learn about technology at a younger age, perhaps I wouldn't have had this stereotype in my head and I would've entered earlier.
+
 ---
 
 ![](http://ladieslearningcode.com/wp-content/uploads/2015/02/LadieLeaningCodeMTLWP_20140614_49_zmimi_HR-e1424038656152.jpg)
 ##[fit] Learning environment
+
+^ Promoting an inclusive environment with mentors that is social and collaborative.
+
 
 ---
 
@@ -179,17 +175,24 @@ a Drupal developer but I wanted to see this in Montreal and it's how it's born n
 ##[fit] and she'll teach four."
 ##### **Reshma Saujani - Founder of Girls Who Code**
 
+^ Ladies Learning Code was inspired after Heather Payne, the founder, attended a Python workshop in LA from PyLadies. She tweeted about the event and now, Ladies Learning Code is in 24 cities across Canada and 23000 learners. I attended a Ladies Learning Code workshop in Toronto and now 900 women in Montreal alone have learned at least beginner friendly coding. Some women I see attend a few more and some have even pushed themselves to attend bootcamps and become full-time web developers as their professional career.
+
 ---
 
 ![fit](https://scontent-yyz1-1.xx.fbcdn.net/hphotos-prn2/t31.0-8/10683628_707312629352083_457146519515326627_o.jpg)
 #[fit] HackerYou ==75% women enrolment
+
+^  HackerYou is an example of a bootcamp that has succeeded in creating an inclusive environment. Founded by the same team of Ladies Learning Code, they have 75% women enrolment. On the first day, Heather Payne presented the values of HackerYou stating that they strive to build a safe environment that is welcoming to all genders, sexual orientation and race.
+
 ---
 
 
 ![](https://images.unsplash.com/photo-1433170897235-615700336230?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=4cc33ad333b238cf760a0451d71a6a33)
-#[fit] So are we hiring more women? What is the Rooney Rule?
+#[fit] So are we hiring more women or are women not applying? What is the Rooney Rule?
 
 ^ Slack, Facebook, Pinterest
+^ Women don't even apply to job postings if they don't fit 100% of the requirements. Contrary to men who will apply if they meet at least 60% of the requirements.
+^ This speaks close to me: I only applied to Dynamo having met someone who works there at a Montreal Girl Geeks event. I applied knowing that they were looking for a front-end developer but I hadn't actually checked to see what the qualifications were. I sent them an email and stumbled upon the job posting: Experience in Angular, Rails, e-commerce... all the things I had yet to experience after finishing my bootcamp. If I had seen that job posting prior to the sending the email, I wouldn't have bothered applying.
 
 ---
 
@@ -235,10 +238,11 @@ a Drupal developer but I wanted to see this in Montreal and it's how it's born n
 ---
 
 ![](https://images.unsplash.com/photo-1454023989775-79520f04322c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=9e434433acf7e61b897ee692e51e0a4f)
-##[fit]Creating mentorship
+##[fit]Creating mentorship: Pair programming and Code Reviews
 
 ^ Embracing pair programming
 ^ Code Reviews: asking questions in PRs
+^ Recently at Dynamo, we've talked a lot about the way in which we conduct our Code Reviews: frequent, sufficient, and not based on experience. A junior could review a senior and senior a junior. Also, when conducting code reviews, asking them in a form of a question rather than authoritative THIS IS THE WAY YOU SHOULD DO IT. Moreover, emojis don't hurt.
 ^ Smoother onboarding
 
 
@@ -280,6 +284,8 @@ OBVIOUSLY · BASICALLY · SIMPLY · OF COURSE · SIMPLY · CLEARLY · JUST · EV
 
 ##Final thoughts
 
+^ Perhaps most of these ideas are just general thoughts that make for an inclusive environment and don't 100% tackle the issue of gender diversity, but I think that by creating an inclusive environment, you become welcoming towards everyone and they're more likely to stay within the field.
+
 ^ Am I saying that everyone needs to be a developer? Am I saying that from this point forward that your team should only hire female developers? Not really. I think that learning to code should be accessible. I think we should teach our kids about technology and coding so that they don't have these assuming ideas of whether or not the tech field is for them. I think that companies and those that are hiring should be aware of these issues and conscious when their team is all females. I think when we say that we are proud of our company culture, we need to address whether or not that culture has allowed for diversity to grow.
 
 ^ I think that when addressing diversity it's not just about addressing the pipeline but it's also the culture. We want to keep those people there. It's not just about hiring for the sake of hiring but providing also the mentorship and support that these new devs need.
@@ -288,4 +294,5 @@ OBVIOUSLY · BASICALLY · SIMPLY · OF COURSE · SIMPLY · CLEARLY · JUST · EV
 
 ^ Sure, it's only been two years, but I'm still here. I stayed because I surrounded myself with a community I love and people I love to work with. And that's p cool.
 
+---
 
