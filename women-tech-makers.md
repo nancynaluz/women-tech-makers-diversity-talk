@@ -17,7 +17,7 @@ slidenumbers: false
 ![](https://daowea4srpbxm.cloudfront.net/assets/about/team-hero-f5ce0ea108620d13177bced9e34b0ced.jpg)
 ###[fit] Front-End Web Developer at Dynamo
 
-^ Dynamo is a digital design studio based here in Montréal specializing in building web and mobile applications particularly for startups and for many of our clients in the realm of e-commerce. Some of our clients old and new include Blue Bottle Coffee, Glossier, Flatiron, LOLA and Airware.
+^ Dynamo is a digital design studio based here in Montréal specializing in building web and mobile applications particularly for startups and for many of our clients in the realm of e-commerce. Solving digital solutions from skin care to tampons to drones to coffee to curing cancer.
 
 ---
 
@@ -147,7 +147,10 @@ a Drupal developer but I wanted to see this in Montreal and it's how it's born n
 ##[fit] Education & accessibility
 #[fit]Introducing technology at an earlier age prior to enforcing gender stereotypes of the industry
 
-^ Sometimes I wonder if I was given a chance to learn about technology at a younger age, perhaps I wouldn't have had this stereotype in my head and I would've entered earlier.
+^ For me, I think it started back in that high school class where I felt completely isolated, nervous and scared to ask questions.
+^ It seemed like all the boys understood what was happening.
+^ Studies have shown within the computer classrooms at a young age that boys try to monopolize the computers
+^ Many claim that computers were marketed towards boys and that's what created that shift.
 
 ---
 
@@ -155,6 +158,7 @@ a Drupal developer but I wanted to see this in Montreal and it's how it's born n
 ##[fit] Learning environment
 
 ^ Promoting an inclusive environment with mentors that is social and collaborative.
+^ Ladies Learning Code did that for me and helped me step into that industry
 
 ---
 
@@ -169,6 +173,7 @@ a Drupal developer but I wanted to see this in Montreal and it's how it's born n
 ##[fit] "Teach a girl how to code and she'll teach four."
 ##### **Reshma Saujani - Founder of Girls Who Code**
 
+^ Not an original idea.
 ^ Ladies Learning Code was inspired after Heather Payne, the founder, attended a Python workshop in LA from PyLadies. She tweeted about the event and now, Ladies Learning Code is in 24 cities across Canada and 23000 learners. I attended a Ladies Learning Code workshop in Toronto and now 900 women in Montreal alone have learned at least beginner friendly coding. Some women I see attend a few more and some have even pushed themselves to attend bootcamps and become full-time web developers as their professional career.
 
 
@@ -244,12 +249,10 @@ a Drupal developer but I wanted to see this in Montreal and it's how it's born n
 ^ Embracing pair programming
 ^ Frequent Code Reviews
 ^ Recently at Dynamo, we've talked a lot about the way in which we conduct our Code Reviews: frequent, sufficient, and not based on experience. A junior could review a senior and senior a junior. Also, when conducting code reviews, asking them in a form of a question rather than authoritative THIS IS THE WAY YOU SHOULD DO IT. Moreover, emojis don't hurt.
-^ Smoother onboarding
 
 ^ At our Ladies Learning Code workshops, we promise at least a 4 to 1 ratio of students to mentors. When I ask learners what their favourite part of the workshop was, they almost always say that meeting their mentor was their favourite part. Having a chance to chat with people the industry, easily ask questions rather than stopping the entire workshop, the mentors are what make the workshop collaborative, social and intimate.
 
 ^ Having attended YES Montreal WIT focus group, we had a lot of discussion of mentorship and how important it was to have a mentor.
-^ When Julie Ann Horvath was at GitHub, she created Passion Projects: monthly talk series featuring women in technology sharing the work that inspires them.
 
 ---
 
@@ -265,8 +268,8 @@ a Drupal developer but I wanted to see this in Montreal and it's how it's born n
 
 ![](http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/03/1-ryU77MsLt5tnp3ow8kqELA.png)
 
-#[fit] We strive to be a place where people with diverse backgrounds bring equally diverse opinions where everyone feels
-#[fit] able  — obligated, even — to make things better. We each have an individual mandate to help us get there.
+#[fit] **We strive to be a place where people with diverse backgrounds bring equally diverse opinions where everyone feels**
+#[fit] **able  — obligated, even — to make things better. We each have an individual mandate to help us get there.**
 
 ^ https://slackhq.com/building-the-workplace-we-want-31fff8d6ffe0#.vycx5t8sw
 
