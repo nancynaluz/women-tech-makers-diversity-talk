@@ -134,6 +134,8 @@ One of a group of early 19th century English work(wo)men destroying laborsaving 
 ![](https://images.unsplash.com/photo-1433170897235-615700336230?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=4cc33ad333b238cf760a0451d71a6a33)
 #[fit] So are we hiring more women or are women not applying?
 
+^ https://hbr.org/2014/08/why-women-dont-apply-for-jobs-unless-theyre-100-qualified/
+
 ---
 
 ![](http://extfiles.etsy.com/Press/dumbo-office/dumbo_office_065.jpg)
